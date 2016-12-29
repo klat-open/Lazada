@@ -1,0 +1,7 @@
+﻿- Các bạn lên tìm trong khoảng tối đa 10 trang để tránh phải chờ lâu
+- Để sắp xếp theo ý muốn hãy click vào tiêu đề của cột
+Ví dụ: để sắp sếp theo Sale hãy Click vào "Sale"
+
+* Phần tự nhập danh mục
+Ví dụ:http://www.lazada.vn/dien-thoai-di-dong/ 
+Các bạn Nhập vào là [dien-thoai-di-dong]

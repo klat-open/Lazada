@@ -1,0 +1,16 @@
+c:\users\nguye\documents\visual studio 2015\Projects\Lazada Hunter Sale\Lazada Hunter Sale\bin\Debug\Lazada Hunter Sale.exe.config
+c:\users\nguye\documents\visual studio 2015\Projects\Lazada Hunter Sale\Lazada Hunter Sale\bin\Debug\Lazada Hunter Sale.exe
+c:\users\nguye\documents\visual studio 2015\Projects\Lazada Hunter Sale\Lazada Hunter Sale\bin\Debug\Lazada Hunter Sale.pdb
+c:\users\nguye\documents\visual studio 2015\Projects\Lazada Hunter Sale\Lazada Hunter Sale\obj\Debug\Lazada Hunter Sale.csprojResolveAssemblyReference.cache
+c:\users\nguye\documents\visual studio 2015\Projects\Lazada Hunter Sale\Lazada Hunter Sale\obj\Debug\Lazada_Hunter_Sale.Form1.resources
+c:\users\nguye\documents\visual studio 2015\Projects\Lazada Hunter Sale\Lazada Hunter Sale\obj\Debug\Lazada_Hunter_Sale.Properties.Resources.resources
+c:\users\nguye\documents\visual studio 2015\Projects\Lazada Hunter Sale\Lazada Hunter Sale\obj\Debug\Lazada Hunter Sale.csproj.GenerateResource.Cache
+c:\users\nguye\documents\visual studio 2015\Projects\Lazada Hunter Sale\Lazada Hunter Sale\obj\Debug\Lazada Hunter Sale.exe
+c:\users\nguye\documents\visual studio 2015\Projects\Lazada Hunter Sale\Lazada Hunter Sale\obj\Debug\Lazada Hunter Sale.pdb
+c:\users\nguye\documents\visual studio 2015\Projects\Lazada Hunter Sale\Lazada Hunter Sale\bin\Debug\Fizzler.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Lazada Hunter Sale\Lazada Hunter Sale\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Lazada Hunter Sale\Lazada Hunter Sale\bin\Debug\HtmlAgilityPack.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Lazada Hunter Sale\Lazada Hunter Sale\bin\Debug\Fizzler.xml
+c:\users\nguye\documents\visual studio 2015\Projects\Lazada Hunter Sale\Lazada Hunter Sale\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+c:\users\nguye\documents\visual studio 2015\Projects\Lazada Hunter Sale\Lazada Hunter Sale\bin\Debug\HtmlAgilityPack.pdb
+c:\users\nguye\documents\visual studio 2015\Projects\Lazada Hunter Sale\Lazada Hunter Sale\bin\Debug\HtmlAgilityPack.xml
